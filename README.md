@@ -16,3 +16,5 @@ Alter - it is used to modify our existing table .  like adding  column----------
 alter table stu add(bg varchar(3), adress varchar); we can lso add more than one column at a time .
 alter table stu add(bg varchar(3) default 'hapur');
 
+
+Modify - used to modify any column 

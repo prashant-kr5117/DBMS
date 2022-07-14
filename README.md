@@ -18,3 +18,7 @@ alter table stu add(bg varchar(3) default 'hapur');
 
 
 Modify - used to modify any column 
+
+alter table tablename modify column columnName varchar(100) or the other type which we want to change ;
+
+
